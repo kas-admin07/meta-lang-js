@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "index": "js-bot-init",
+    "tag": "bot-initialization",
+    "lang": "js",
+    "comment": "// [js-bot-init]",
+    "similar_to": [],
+    "dependencies": ["@maxhub/max-bot-api>=0.2.1", "dotenv>=16.6.1"],
+    "verified": true,
+    "repo": "meta-lang-js",
+    "path": "bot-init"
+  },
+  "description": "Initializes a bot for MAX platform with token configuration.",
+  "prompt": "Insert code from code.js for bot initialization. For first use, include comment `// [js-bot-init]`. For ≥2 uses, copy to project/dict/js-bot-init.json and replace all instances with `[js-bot-init]`. Check `similar_to` in metadata to avoid duplicates."
+}
