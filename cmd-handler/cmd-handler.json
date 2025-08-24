@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "index": "js-cmd-handler",
+    "tag": "command-handler",
+    "lang": "js",
+    "comment": "// [js-cmd-handler]",
+    "similar_to": ["js-msg-handler"],
+    "dependencies": ["@maxhub/max-bot-api>=0.2.1"],
+    "verified": true,
+    "repo": "meta-lang-js",
+    "path": "cmd-handler"
+  },
+  "description": "Handles bot commands (e.g., /start, /help) for MAX platform with customizable responses.",
+  "prompt": "Insert code from code.js for command handling. For first use, include comment `// [js-cmd-handler]`. For ≥2 uses, copy to project/dict/js-cmd-handler.json and replace all instances with `[js-cmd-handler]`. Check `similar_to` in metadata to avoid duplicates."
+}
