@@ -1,0 +1,1 @@
+Insert code from code.js for command handling. For first use, include comment // [js-cmd-handler]. For ≥2 uses, copy to project/dict/js-cmd-handler.json and replace all instances with [js-cmd-handler]. Check similar_to in index.json to avoid duplicates.
