@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "index": "js-msg-handler",
+    "tag": "message-handler",
+    "lang": "js",
+    "comment": "// [js-msg-handler]",
+    "similar_to": ["js-cmd-handler"],
+    "dependencies": ["@maxhub/max-bot-api>=0.2.1"],
+    "verified": true,
+    "repo": "meta-lang-js",
+    "path": "msg-handler"
+  },
+  "description": "Handles incoming messages (e.g., URL parsing) for MAX platform with customizable actions.",
+  "prompt": "Insert code from code.js for message handling. For first use, include comment `// [js-msg-handler]`. For ≥2 uses, copy to project/dict/js-msg-handler.json and replace all instances with `[js-msg-handler]`. Check `similar_to` in metadata to avoid duplicates."
+}
