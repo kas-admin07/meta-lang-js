@@ -1,0 +1,2 @@
+# meta-lang-js
+Node.js code patterns for AI. Stores reusable patterns (e.g., cmd-handler, msg-handler) from ShortLinkBot_MAX. Each pattern includes index.json, code.js, desc.md, prompt.md, tests.js. AI uses meta-lang-hub/index-all.json to locate patterns, replaces code with indexes ([js-cmd-handler]) for ≥2 uses, adds comments (// [index]) for single uses.
