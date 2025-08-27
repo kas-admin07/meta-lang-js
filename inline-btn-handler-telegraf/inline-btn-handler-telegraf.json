@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "index": "js-inline-btn-handler",
+    "tag": "inline-button-handler",
+    "lang": "js",
+    "comment": "// [js-inline-btn-handler]",
+    "similar_to": ["py-inline-btn-handler", "py-async-inline-btn-handler"],
+    "dependencies": ["telegraf>=4.0.0"],
+    "verified": true,
+    "repo": "meta-lang-js",
+    "path": "inline-btn-handler-telegraf"
+  },
+  "description": "Handles inline button callbacks (callback_query) in Telegram bots using Telegraf.",
+  "prompt": "Insert code from code.js for inline button callback handling with Telegraf. For first use, include comment `// [js-inline-btn-handler]`. For ≥2 uses, copy to project/dict/js-inline-btn-handler.json and replace all instances with `[js-inline-btn-handler]`."
+}
